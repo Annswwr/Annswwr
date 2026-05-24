@@ -41,6 +41,8 @@ A Cambodian game developer, programmer, and technical artist. I'm interested in 
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="30" alt="blender logo"  />
   <img width="12" />
+  <img src="https://shared.fastly.steamstatic.com/community_assets/images/apps/1486350/7e8e6b042ba15dcd5238bda279d8c9c02ceb53ce.ico" height="30" alt="vroid logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="30" alt="android logo"  />
 </div>
 
