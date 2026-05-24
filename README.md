@@ -23,7 +23,7 @@
 
 ###
 
-A Cambodian game developer, programmer, and technical artist. I'm interested in pursuing experimental work, forgotten aesthetics, and emerging platforms. 
+A Cambodian game developer, programmer, and technical artist. Interested in experimental work, forgotten aesthetics, and emerging platforms. 
 
 ###
 <h2 align="left">Software / Languages</h2>
