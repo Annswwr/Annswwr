@@ -1,4 +1,4 @@
-<h1 align="left">Andy Eng 🎮 </h1>
+<img src="https://img.itch.zone/aW1nLzIwODI1OTg2LmdpZg==/original/R9%2BvRs.gif"/>
 
 
 ###
@@ -22,11 +22,7 @@
 </div>
 
 ###
-
-A Cambodian game developer, programmer, and technical artist. Interested in experimental work, forgotten aesthetics, and emerging platforms. 
-
-###
-<h2 align="left">Software / Languages</h2>
+<h2 align="left">Software / Tools</h2>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="30" alt="unity logo"  />
